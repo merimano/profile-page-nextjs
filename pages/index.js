@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
           I'm a fullstack developer and a marketing professional passionate about digital products. 
           Reach out at Meriem.Manouchi@gmail.com or 
           {' '}
-          <a href="https://www.linkedin.com/in/meriemmanouchi/"> find me at LinkedIn</a>!
+          <a href="https://www.linkedin.com/in/meriemmanouchi/"> find me at LinkedIn</a>!!
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
